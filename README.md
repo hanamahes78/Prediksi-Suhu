@@ -1,6 +1,6 @@
 # Prediksi Suhu dengan Analisis Multivariate Time Series
 
-Anggota Kelompok : 
+Anggota Tim 6B : 
 - Agnes Monica Puspitaningtyas 
 - Eggy B. Brillian
 - Hana Maheswari 
